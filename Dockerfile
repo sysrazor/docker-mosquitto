@@ -1,6 +1,6 @@
 FROM resin/rpi-raspbian
 
-MAINTAINER Thomas Kerpe <toke@toke.de>
+MAINTAINER Tony Zimzores tony@virtualtony.com
 
 # Build-time metadata as defined at http://label-schema.org
 ARG BUILD_DATE
