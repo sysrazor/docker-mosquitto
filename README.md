@@ -1,4 +1,4 @@
-docker-mosquitto
+docker-mosquitto for Raspberry Pi
 ================
 
 Docker image for mosquitto
